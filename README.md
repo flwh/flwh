@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Nginx+PHP 一键包 （V5.3.9） 
+Nginx+PHP 一键包  
 =============================
 这是一个Openshift架设Nginx+PHP+Zend Guard Loader的一键包。
 更多有关 OpenShift 的信息，请访问：https://openshift.redhat.com/。
