@@ -58,10 +58,6 @@ Nginx+PHP 一键包 （V5.3.9）
 Q.Nginx无法启动，原因：端口被占用。
 A.在程序里本结束了ruby的进程，也许出现意外并未结束，可输入命令"killall ruby"来结束进程，再尝试启动即可。
 
-更多问题请发邮件至邮箱：wyuanji@qq.com
+更多问题请发邮件至邮箱：flwhwx@qq.com
 =======
-flwh
-====
 
-flwh
->>>>>>> 0fe1e2b0622e236af55e28e851fd66f40539885d
