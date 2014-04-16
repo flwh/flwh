@@ -100,11 +100,11 @@ function install_php() {
     pushd ${BUILD_DIR}
 
     echo "正在下载${pkg}。"
-    wget http://us1.php.net/distributions/php-5.3.28.tar.gz
+    wget http://us1.php.net/distributions/${pkg}
 
-    echo "正在解压$php-5.3.28。"
-    tar xfz php-5.3.28.tar.gz
-    pushd php-5.3.28
+    echo "正在解压${pkg}。"
+    tar xfz ${pkg}
+    pushd php-${PHP_VERSION}
 
     echo "正在配置PHP。"
     ./configure \
